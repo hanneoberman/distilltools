@@ -70,7 +70,7 @@ There are currently five exported functions in `distilltools`.
   Output of `icon_link` will need styling via the `icon-link` class to
   make it look like a button. For more details on this function, see
   [this blog
-  post](https://www.jhelvy.com/posts/2021-03-25-customizing-distill-with-htmltools-and-css/#link-buttons-with-icons-text)
+  post](https://www.jhelvy.com/blog/2021-03-25-customizing-distill-with-htmltools-and-css/#link-buttons-with-icons-text)
   from John Paul Helveston. For examples of styling the `icon-link`
   class, see [John Paul Helveston’s
   css](https://github.com/jhelvy/jhelvy.com/blob/master/css/jhelvy.css)
