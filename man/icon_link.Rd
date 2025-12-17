@@ -18,7 +18,7 @@ icon_link(
 )
 }
 \arguments{
-\item{icon}{The name of the icon. For Font Awesome icons, the name should correspond to the current Version 5 name and can either be the the short name (e.g. \code{"github"}) or the full name (e.g. \code{"fab fa-github"}). \href{https://jpswalsh.github.io/academicons/}{Academicons} can also be used and styled the same way (e.g. \code{"google-scholar"} or \code{"ai ai-google-scholar"}) but require a site header. See \href{https://www.jhelvy.com/posts/2021-03-25-customizing-distill-with-htmltools-and-css/#side-note-on-academic-icons}{here} for details.}
+\item{icon}{The name of the icon. For Font Awesome icons, the name should correspond to the current Version 5 name and can either be the the short name (e.g. \code{"github"}) or the full name (e.g. \code{"fab fa-github"}). \href{https://jpswalsh.github.io/academicons/}{Academicons} can also be used and styled the same way (e.g. \code{"google-scholar"} or \code{"ai ai-google-scholar"}) but require a site header. See \href{https://www.jhelvy.com/blog/2021-03-25-customizing-distill-with-htmltools-and-css/#side-note-on-academic-icons}{here} for details.}
 
 \item{style}{The style of the font awesome icon, which can be "default", "solid" or "regular". This parameter is only used when the short name of the icon is used in the \code{icon} argument and there is more than one style available for that icon. In that case, the default becomes "solid".}
 

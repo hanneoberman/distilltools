@@ -16,7 +16,7 @@ Encoding: UTF-8
 LazyData: true
 BugReports: https://github.com/EllaKaye/distilltools/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.0
+RoxygenNote: 7.3.3
 Imports: 
     distill,
     htmltools,
